@@ -1,2 +1,2 @@
-# card-memory-game
-The memory game developed using Javascript
+# Card Memory Game
+Card Memory Game is an application developed using Javascript for Skillbox homework.
